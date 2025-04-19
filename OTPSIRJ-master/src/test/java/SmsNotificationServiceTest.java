@@ -1,4 +1,4 @@
-import org.Evgeniy.service.SmsNotificationService;
+import org.Galushka.service.SmsNotificationService;
 import org.junit.Before;
 import org.junit.Test;
 
