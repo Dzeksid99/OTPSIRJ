@@ -1,6 +1,6 @@
-import org.Evgeniy.service.UserService;
-import org.Evgeniy.dao.UserDao;
-import org.Evgeniy.model.User;
+import org.Galushka.service.UserService;
+import org.Galushka.dao.UserDao;
+import org.Galushka.model.User;
 import org.junit.Before;
 import org.junit.Test;
 import static org.mockito.Mockito.*;
