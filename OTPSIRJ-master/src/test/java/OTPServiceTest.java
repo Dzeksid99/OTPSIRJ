@@ -1,6 +1,6 @@
-import org.Evgeniy.service.OTPService;
-import org.Evgeniy.dao.OtpCodeDao;
-import org.Evgeniy.model.OTPCode;
+import org.Galushka.service.OTPService;
+import org.Galushka.dao.OtpCodeDao;
+import org.Galushka.model.OTPCode;
 import org.junit.Before;
 import org.junit.Test;
 import static org.mockito.Mockito.*;
