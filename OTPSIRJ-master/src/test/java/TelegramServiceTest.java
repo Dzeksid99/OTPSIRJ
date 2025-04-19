@@ -1,4 +1,4 @@
-import org.Evgeniy.service.TelegramService;
+import org.Galushka.service.TelegramService;
 
 public class TelegramServiceTest {
 
